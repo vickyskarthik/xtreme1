@@ -1,3 +1,12 @@
+
+/*Annotations in Java:
+Annotations are metadata about the program embedded directly within the program itself.
+They can be parsed by the annotation parsing tool or by the compiler.
+Annotations do not affect the execution of the compiled program; instead, they provide information to the program at compile time or runtime.
+Annotations start with the @ symbol.
+*/
+
+// Package declaration
 package ai.basic.x1.adapter.api.annotation.user;
 
 import java.lang.annotation.ElementType;
